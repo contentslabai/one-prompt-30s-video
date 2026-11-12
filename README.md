@@ -14,7 +14,7 @@ Preview: [`sample/out-preview.mp4`](sample/out-preview.mp4) (5 seconds, the kit'
 ### 1. Get the code
 
 ```bash
-git clone https://github.com/contentslab-ai/one-prompt-30s-video.git
+git clone https://github.com/contentslabai/one-prompt-30s-video.git
 cd one-prompt-30s-video
 npm i
 ```
@@ -65,7 +65,7 @@ Every episode is a new 30-second video with its own kit.
 ### 1. 코드 받기
 
 ```bash
-git clone https://github.com/contentslab-ai/one-prompt-30s-video.git
+git clone https://github.com/contentslabai/one-prompt-30s-video.git
 cd one-prompt-30s-video
 npm i
 ```
